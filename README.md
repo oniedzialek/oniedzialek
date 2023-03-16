@@ -13,12 +13,13 @@
 
 - ⚡ Interested in **Personal development and mastering productivity**
 
-<h3 align="left">Check me on:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/@lethal88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@lethal88" height="30" width="40" /></a>
-</p>
-
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarn8&show_icons=true&locale=en&layout=compact" alt="oskarn8" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oskarn8&show_icons=true&locale=en" alt="oskarn8" /></p>
+
+<h3 align="left">Check me on:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/https://www.youtube.com/@lethal88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@lethal88" height="30" width="40" /></a>
+</p>
