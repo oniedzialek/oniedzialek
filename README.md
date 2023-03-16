@@ -14,9 +14,8 @@
 - ⚡ Interested in **Personal development and mastering productivity**
 
 <br>
-<p align="center">
+
 ![oskarn8's GitHub stats](https://github-readme-stats.vercel.app/api?username=oskarn8&show_icons=true&theme=dark)
-</p>
 
 <br>
 
