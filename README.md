@@ -7,7 +7,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **ProductiveDay Application**
+- 🔭 I’m currently working on **ProductiveDay Web App**
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
