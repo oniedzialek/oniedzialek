@@ -15,11 +15,7 @@
 
 <br>
 
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=OskarN8&show_icons=true&count_private=true&theme=tokyonight" alt="OskarN8" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OskarN8&show_icons=true&locale=en&hide_border=false&layout=compact&theme=tokyonight" alt="OskarN8" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=OskarN8&theme=tokyonight" alt="OskarN8" /></p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oskarn8&show_icons=true&theme=radical)
 
 <br>
 <h2 align="center">Check me on:</h2>
