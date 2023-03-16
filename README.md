@@ -16,9 +16,9 @@
 <br>
 
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/OskarN8/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/OskarN8/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/OskarN8/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/react/3-stats.svg)](https://github.com/OskarN8/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/OskarN8/github-profile-summary-cards)
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=neziw&show_icons=true&count_private=true&theme=tokyonight" alt="OskarN8" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neziw&show_icons=true&locale=en&hide_border=false&layout=compact&theme=tokyonight" alt="OskarN8" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=neziw&theme=tokyonight" alt="OskarN8" /></p>
 
 
 <br>
