@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oskar Niedziałek</h1>
+<br>
 <h3 align="center">Coffee and Java Enjoyer ☕</h3>
 <br>
 <br>
