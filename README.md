@@ -16,6 +16,7 @@
 <br>
 
 ![oskarn8's GitHub stats](https://github-readme-stats.vercel.app/api?username=oskarn8&show_icons=true&theme=dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarn8&show_icons=true&locale=en&hide_border=false&layout=compact&theme=tokyonight" alt="oskarn8" /></p>
 
 <br>
 
