@@ -15,7 +15,10 @@
 
 <br>
 
-  <div style="text-align: center;">
+  <div style="    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oskarn8&theme=dark" alt="Top Langs">
     </a>
