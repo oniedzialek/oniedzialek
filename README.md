@@ -16,11 +16,11 @@
 <br>
 
 ![oskarn8's GitHub stats](https://github-readme-stats.vercel.app/api?username=oskarn8&show_icons=true&theme=dark)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarn8&show_icons=true&locale=en&hide_border=false&layout=compact&theme=tokyonight" alt="oskarn8" /></p>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oskarn8)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-<h2 align="center">Check me on:</h2>
+<h2 align="center">My YouTube project:</h2>
 <p align="center">
 <a href="https://www.youtube.com/c/@lethal88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCsiqvPOuwtX-YbyoeIX2U3g" height="60" width="70" /></a>
 </p>
