@@ -14,7 +14,9 @@
 - ⚡ Interested in **Personal development and mastering productivity**
 
 <br>
-<div style="justify-content: center;">
+<div style="display: flex;
+  justify-content: center;
+  align-items: center;">
 ![oskarn8's GitHub stats](https://github-readme-stats.vercel.app/api?username=oskarn8&show_icons=true&theme=dark)
 <br>
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oskarn8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
