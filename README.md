@@ -14,13 +14,17 @@
 - ⚡ Interested in **Personal development and mastering productivity**
 
 <br>
-<div style="display: flex;
-  justify-content: center;
-  align-items: center;">
-![oskarn8's GitHub stats](https://github-readme-stats.vercel.app/api?username=oskarn8&show_icons=true&theme=dark)
-<br>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oskarn8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=oskarn8&show_icons=true&theme=dark" alt="oskarn8's GitHub stats">
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oskarn8&theme=dark" alt="Top Langs">
+    </a>
+  </div>
 </div>
+
 <br>
 
 <h2 align="center">My YouTube project:</h2>
