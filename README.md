@@ -14,11 +14,11 @@
 - ⚡ Interested in **Personal development and mastering productivity**
 
 <br>
-
+<div style=center"
 ![oskarn8's GitHub stats](https://github-readme-stats.vercel.app/api?username=oskarn8&show_icons=true&theme=dark)
 <br>
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oskarn8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 <br>
 
 <h2 align="center">My YouTube project:</h2>
