@@ -14,6 +14,7 @@
 - ⚡ Interested in **Personal development and mastering productivity**
 
 <br>
+
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=oskarn8&show_icons=true&theme=dark" alt="oskarn8's GitHub stats">
