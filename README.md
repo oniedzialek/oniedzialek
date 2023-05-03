@@ -7,11 +7,6 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **ProductiveDay Web App**
-
-- 🌱 I’m currently learning **Java Spring Boot**
-
-- ⚡ Interested in **Personal development and mastering productivity**
 
 <br>
 
