@@ -6,22 +6,6 @@
 
 <br>
 <br>
-
-
-<br>
-
-  <div style="    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oskarn8&theme=dark" alt="Top Langs">
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=oskarn8&show_icons=true&theme=dark" alt="oskarn8's GitHub stats">
-  </div>
-
-
-
 <br>
 
 <h2 align="center">My YouTube project:</h2>
