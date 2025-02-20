@@ -3,11 +3,6 @@
 <h2 align="center" style="text-decoration: none;">Coffee and Tech Enjoyer ☕</h2>
 <br>
 
-- 🔭 I’m currently working on [LEDyBEAR, esp32 with led strips management](https://github.com/oniedzialek/LEDyBEAR)
-
-- 🌱 I’m currently learning **Android, Kotlin, Jetpack Compose development**
-
-- ⚡ Interested in **Personal development and tech**
 
 <br>
 <h2 align="center">YouTube project:</h2>
