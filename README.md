@@ -47,3 +47,6 @@
 <p align="center">
  <a href="https://serweryhytale24.pl/" target="blank">https://serweryhytale24.pl/</a>
 </p>
+<p align="center">
+ <a href="https://tipgrinder.com/" target="blank">https://tipgrinder.com/</a>
+</p>
