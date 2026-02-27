@@ -43,5 +43,7 @@
 <h3 align="center">Web projects:</h3>
 <p align="center">
 <a href="https://serweryminecraft24.pl/" target="blank">https://serweryminecraft24.pl/</a>
-  <a href="https://serweryhytale24.pl/" target="blank">https://serweryhytale24.pl/</a>
+</p>
+<p align="center">
+ <a href="https://serweryhytale24.pl/" target="blank">https://serweryhytale24.pl/</a>
 </p>
