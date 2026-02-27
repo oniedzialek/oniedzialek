@@ -39,3 +39,9 @@
 <p align="center">
 <a href="https://www.youtube.com/c/@lethal88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@lethal88" height="70" width="70" /></a>
 </p>
+
+<h3 align="center">Web projects:</h3>
+<p align="center">
+<a href="https://serweryminecraft24.pl/" target="blank">https://serweryminecraft24.pl/</a>
+  <a href="https://serweryhytale24.pl/" target="blank">https://serweryhytale24.pl/</a>
+</p>
